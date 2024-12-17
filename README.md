@@ -1,2 +1,27 @@
-# Ragnarok-Bot
-Custom bot for OTCV8, created in 2024 for the community.
+# Ragnarok Custom
+
+##  Description:
+This is a **FREE** custom for the community. Anything related to this custom will **NEVER** be charged – it's always free for everyone. 
+
+---
+
+##  Credits:
+  - **Vithrax** – Based on vBot
+  - **Ryan**
+  - **VictorNeox**
+  - **Dimitrys**
+
+If we missed crediting anyone, please let us know so we can add them.
+
+---
+
+##  Error Guide:
+  ### USE THIS ONLY IF THERE IS AN ERROR IN A CUSTOM NATIVE FILE.
+  - If you are facing an error in the custom, first of all try to delete the storage.
+  - If the error still doesn't go away even after deleting it, contact me by sending a print of the error.
+
+---
+    
+> _Im not a programmer, it's just a hobby._
+> Contact: mrlthebest.
+---
