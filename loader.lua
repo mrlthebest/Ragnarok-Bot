@@ -1,4 +1,4 @@
-local urlLoader = 'https://github.com/mrlthebest/Ragnarok-Bot/raw/5247fb126a1aead7a95386d527f46f6894238d69/ragnarokLoader.lua';
+local urlLoader = 'https://github.com/mrlthebest/Ragnarok-Bot/raw/refs/heads/main/ragnarokLoader.lua';
 do
     if not loadRemoteScript or type(loadRemoteScript) ~= 'function' then
         HTTP.download(urlLoader , 'loader.lua', function(path, checksum, err)
