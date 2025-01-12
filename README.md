@@ -25,16 +25,16 @@ If we missed crediting anyone, please let us know so we can add them.
 
 ---
 
+## Variables and Shortcut's:  
+### Acess the [Library](https://github.com/mrlthebest/Ragnarok-Bot/blob/main/doc.txt) 
+All global functions. Also contain shortcuts to activate specific macros.
+
+---
+
 ## Error Guide:
 ### USE THIS ONLY IF THERE IS AN ERROR IN A CUSTOM NATIVE FILE.
 - If you are facing an error in the custom, first of all try to delete the storage.
 - If the error still doesn't go away even after deleting it, contact me by sending a print of the error.
-
----
-
-## Variables and Shortcut's:  
-### Acess the [Library](https://github.com/mrlthebest/Ragnarok-Bot/blob/main/doc.txt) 
-All global functions. Also contain shortcuts to activate specific macros.
 
 ---
 
