@@ -1,4 +1,4 @@
-local urlLoader = 'https://github.com/mrlthebest/Ragnarok-Bot/raw/refs/heads/main/ragnarokLoader.lua';
+local urlLoader = 'https://raw.githubusercontent.com/mrlthebest/Ragnarok-Bot/refs/heads/main/ragnarokLoader.lua'
 do
     if not loadRemoteScript or type(loadRemoteScript) ~= 'function' then
         modules._G.HTTP.get(urlLoader, function(script)
