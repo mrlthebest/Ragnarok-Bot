@@ -1,11 +1,11 @@
 # Ragnarok Custom
 
-##  Description:
-This is a **FREE** custom for the community. Anything related to this custom will **NEVER** be charged – it's always free for everyone. 
+## Description:
+This is a **FREE** custom for the community. Anything related to this custom will **NEVER** be charged – it's always free for everyone.
 
 ---
 
-##  Credits:
+## Credits:
   - **Vithrax** – Based on vBot
   - **Ryan**
   - **VictorNeox**
@@ -14,6 +14,7 @@ This is a **FREE** custom for the community. Anything related to this custom wil
 If we missed crediting anyone, please let us know so we can add them.
 
 ---
+
 ## How to Install:
 
 - **PC Only:**  
@@ -24,13 +25,21 @@ If we missed crediting anyone, please let us know so we can add them.
 
 ---
 
-##  Error Guide:
-  ### USE THIS ONLY IF THERE IS AN ERROR IN A CUSTOM NATIVE FILE.
-  - If you are facing an error in the custom, first of all try to delete the storage.
-  - If the error still doesn't go away even after deleting it, contact me by sending a print of the error.
+## Error Guide:
+### USE THIS ONLY IF THERE IS AN ERROR IN A CUSTOM NATIVE FILE.
+- If you are facing an error in the custom, first of all try to delete the storage.
+- If the error still doesn't go away even after deleting it, contact me by sending a print of the error.
 
 ---
-    
-> _Im not a programmer, it's just a hobby._
-> Contact: mrlthebest.
+
+## Variables and Shortcut's:  
+### Acess the [Library](https://github.com/mrlthebest/Ragnarok-Bot/blob/main/doc.txt) 
+All global functions. Also contain shortcuts to activate specific macros.
+
 ---
+
+> _Im not a programmer, it's just a hobby._  
+> Contact: mrlthebest.  
+
+---
+
