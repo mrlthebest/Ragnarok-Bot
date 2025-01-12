@@ -2,7 +2,7 @@ local newVersion = 'https://raw.githubusercontent.com/mrlthebest/Ragnarok-Bot/re
 local oldVersion = ''; -- 20005 LuaJit
 local urlLoader;
 if modules._G.jit.version_num < 20100 then
-    urlLoader = oldVersion
+    urlLoader = oldVersion;
 else
     urlLoader = newVersion;
 end
