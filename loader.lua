@@ -1,4 +1,4 @@
-local newVersion = 'https://raw.githubusercontent.com/mrlthebest/Ragnarok-Bot/refs/heads/main/ragnarokLoader.lua'; -- 20100 LuaJit
+local newVersion = 'https://raw.githubusercontent.com/mrlthebest/Ragnarok-Bot/refs/heads/main/ragnarokLoader20100.lua'; -- 20100 LuaJit
 local oldVersion = ''; -- 20005 LuaJit
 local urlLoader;
 if modules._G.jit.version_num < 20100 then
