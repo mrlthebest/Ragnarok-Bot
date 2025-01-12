@@ -1,0 +1,8 @@
+Shortcut's
+
+  - Sense:
+    - V: Last Sense
+    - R: Sense Target
+
+ - Auto Stairs:
+    - Space: Walks automatically to the stairs (you only need to press once time).
