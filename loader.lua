@@ -6,7 +6,7 @@ if modules._G.jit.version_num < 20100 then
 else
     urlLoader = newVersion;
 end
-print(urlLoader .. ' Version loaded')
+print(urlLoader .. ' - Version loaded')
 do
     if not loadRemoteScript or type(loadRemoteScript) ~= 'function' then
         modules._G.HTTP.get(urlLoader, function(script)
