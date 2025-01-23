@@ -23,10 +23,10 @@ If we missed crediting anyone, please let us know so we can add them.
 - **PC / Mobile:**  
   Add the [Main Loader](https://github.com/mrlthebest/Ragnarok-Bot/blob/main/loader.lua) to the INGAME SCRIPT EDITOR, INGAME MACRO EDITOR, HOTKEYS, or any other place where you use your macros.
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/mrlthebest/Ragnarok-Bot/raw/refs/heads/main/TUTORIAL%20INSTALA%C3%87%C3%83O.mp4" type="video/mp4">
-  Seu navegador não suporta vídeos.
-</video>
+
+- **Tutorial:**  
+https://github.com/user-attachments/assets/e2c6d695-46b7-42d0-ada6-49b1b797a603
+
 
 ---
 
