@@ -34,6 +34,16 @@ https://github.com/user-attachments/assets/4dfeed6e-ac49-45b0-a34b-a4ada5f6c1c0
 
 ---
 
+
+## Show off:
+
+
+https://github.com/user-attachments/assets/d9f36cf7-fb1f-431d-9c6b-5e762053e837
+
+
+
+---
+
 ## Variables and Shortcut's:  
 ### Acess the [Library](https://github.com/mrlthebest/Ragnarok-Bot/blob/main/doc.txt) 
 All global functions. Also contain shortcuts to activate specific macros.
