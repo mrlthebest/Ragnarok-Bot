@@ -18,7 +18,7 @@ If we missed crediting anyone, please let us know so we can add them.
 ## How to Install:
 
 - **PC Only:**  
-  Download the [Brute Loader](https://github.com/mrlthebest/Ragnarok-Bot/blob/main/ragnarokLoader.lua), create a folder in the bot directory, and place the file there.
+  Download the [Brute Loader](https://github.com/mrlthebest/Ragnarok-Bot/blob/main/brute_loader.lua), create a folder in the bot directory, and place the file there.
 
 - **PC / Mobile:**  
   Add the [Main Loader](https://github.com/mrlthebest/Ragnarok-Bot/blob/main/loader.lua) to the INGAME SCRIPT EDITOR, INGAME MACRO EDITOR, HOTKEYS, or any other place where you use your macros.
