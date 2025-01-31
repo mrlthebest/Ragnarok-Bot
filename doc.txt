@@ -6,3 +6,12 @@ Shortcut's
 
  - Auto Stairs:
     - Space: Walks automatically to the stairs (you only need to press once time).
+
+ - Auto Jump:
+    - PageUp: Saves your current position for Jump Up.
+    - PageDown: Saves your current position for Jump Down.
+    - F: Automatically walk to the saved wall, turn in the correct direction and jump(if save positions is activated, just moving up/down will save the positions).
+
+ - Push:
+    - Shift + Directional(WASD QE ZC): Push the target to the pressed position.
+    - R: When you press the key, it will save the position your mouse is in and will push the target to that position.
